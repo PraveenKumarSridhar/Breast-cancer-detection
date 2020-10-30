@@ -19,10 +19,26 @@ According to the American Cancer Society, more than 180,000 women in the United 
 You can download the dataset from [here](https://www.kaggle.com/paultimothymooney/breast-histopathology-images/).
 A sample data would look like this:
 
-<p float = "left">
+
+<table>
+  <tr>
+    <td><b>BENIGN SAMPLE</b></td>
+     <td><b>MALIGNANT SAMPLE</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/PraveenKumarSridhar/Breast-cancer-detection/main/assets/Benign.png" width=300 height=300></td>
+    <td><img src="https://raw.githubusercontent.com/PraveenKumarSridhar/Breast-cancer-detection/main/assets/Malignant.png" width=300 height=300></td>
+  </tr>
+ </table>
+<!-- <p float = "left">
+<figure float = "left">
     <img  alt="Benign" src="https://raw.githubusercontent.com/PraveenKumarSridhar/Breast-cancer-detection/main/assets/Benign.png" width="300" height="300" />
+    <figcaption>BENIGN</figcaption>
     <img  alt="Malignant" src="https://raw.githubusercontent.com/PraveenKumarSridhar/Breast-cancer-detection/main/assets/Malignant.png" width="300" height="300" />
-</p>
+    <figcaption>MALIGNANT</figcaption>
+    </figure>
+</p> -->
+
 
 ## 3.0 Environment and tools Used:
     1. Jupyter Notebook
